@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Johan%20Alain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20Applications%20%7C%20DevSecOps%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Johan%20Alain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20Applications%20%7C%20DevSecOps%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+modern+web+applications+%F0%9F%9A%80;Exploring+software+architecture+%F0%9F%8F%97%EF%B8%8F;Learning+to+build+more+secure+software+%F0%9F%94%90;Growing+as+a+Software+Engineer+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=93&lines=Building+modern+web+applications+%F0%9F%9A%80;Exploring+software+architecture+%F0%9F%8F%97%EF%B8%8F;Learning+to+build+more+secure+software+%F0%9F%94%90;Growing+as+a+Software+Engineer+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -157,117 +157,6 @@ My interests sit at the intersection of:
 
 ---
 
-# 🚀 Featured Projects
-
-## 💼 JOB-in
-
-> **A web platform connecting candidates and companies.**
-
-JOB-in is a recruitment-oriented web application providing dedicated experiences for job seekers and companies.
-
-### ✨ Features
-
-* 🔎 Job search
-* 📋 Application tracking
-* 🏢 Company directory
-* 📰 Publications
-* 👤 Candidate workspace
-* 🏢 Company workspace
-* 📱 Responsive interface
-
-**Technologies**
-
-`React` · `Vite` · `Tailwind CSS` · `React Router` · `Framer Motion`
-
----
-
-## 👥 Employee Management App
-
-> **Administrative web application for employee and user management.**
-
-The project focuses on building a structured administration interface with reusable components and API-driven data management.
-
-### ✨ Features
-
-* 👤 Employee management
-* 🔐 Roles and permissions
-* 📊 Data tables
-* 📝 Dynamic forms
-* 🧩 Reusable components
-* 🔌 REST API integration
-
-**Technologies**
-
-`Angular` · `TypeScript` · `REST API`
-
----
-
-## 🌱 SIE2
-
-> **Environmental Information System — Frontend**
-
-A frontend project focused on making environmental information, indicators, publications and datasets easier to explore.
-
-### ✨ Areas
-
-* 📊 Data visualization
-* 🔎 Search and exploration
-* 🗺️ Environmental data
-* 📚 Publications
-* 🧭 Information architecture
-* 🎨 Frontend personalization
-
-**Technologies**
-
-`Angular` · `TypeScript` · `REST APIs`
-
----
-
-## 🧩 ToDoList — Microfrontend Architecture
-
-> **A learning project exploring microfrontend architecture.**
-
-Different sections of the application are implemented using different frontend technologies.
-
-```text
-                         ToDoList
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-           React           Vue         Angular
-              │             │             │
-           Landing         Login       Dashboard
-```
-
-**Technologies**
-
-`React` · `Vue.js` · `Angular`
-
----
-
-# 🏗️ My Engineering Interests
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────┐
-│                 SOFTWARE ENGINEERING             │
-├────────────────┬────────────────┬────────────────┤
-│                │                │                │
-│    FRONTEND    │  ARCHITECTURE  │    SECURITY    │
-│                │                │                │
-│ React          │ Modularity     │ Secure Code    │
-│ Angular        │ Scalability    │ Dependencies   │
-│ TypeScript     │ Maintainability│ Authentication │
-│ UI / UX        │ Design Patterns│ DevSecOps      │
-│                │                │                │
-└────────────────┴────────────────┴────────────────┘
-```
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -308,29 +197,6 @@ Different sections of the application are implemented using different frontend t
 
 ---
 
-# 🧠 Developer Mindset
-
-<div align="center">
-
-### `Code → Understand → Refactor → Secure → Ship`
-
-</div>
-
-I don't want to focus only on making an application **work**.
-
-I want to progressively understand:
-
-* how to structure it;
-* how to make it maintainable;
-* how to make it scalable;
-* how to protect it;
-* and how to automate its delivery.
-
-This is why my development journey is gradually moving toward the intersection of:
-
-**Software Development + Architecture + Application Security + DevSecOps**
-
----
 
 # 🎯 2026 Focus
 
