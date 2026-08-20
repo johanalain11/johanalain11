@@ -161,9 +161,9 @@ My interests sit at the intersection of:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johanalain11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=johanalain11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanalain11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=johanalain11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
@@ -182,16 +182,6 @@ My interests sit at the intersection of:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=johanalain11&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/johanalain11/johanalain11/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
