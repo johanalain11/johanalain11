@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Johan%20Alain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20Applications%20%7C%20DevSecOps%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Johan%20Alain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20and%20Mobile%20Applications%20%7C%20DevSecOps%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=93&lines=Building+modern+web+applications+%F0%9F%9A%80;Exploring+software+architecture+%F0%9F%8F%97%EF%B8%8F;Learning+to+build+more+secure+software+%F0%9F%94%90;Growing+as+a+Software+Engineer+%F0%9F%93%9A" alt="Typing SVG" />
@@ -60,17 +60,18 @@ My interests sit at the intersection of:
 
 <div align="center">
 
-|  💻 Development  |    🏗️ Architecture    |     🔐 Security     |
-| :--------------: | :--------------------: | :-----------------: |
-| Web Applications |     Modular Design     |  Secure Development |
-|  React / Angular | Component Architecture | Dependency Security |
-|     REST APIs    |    State Management    |      DevSecOps      |
+|  💻 Development  |    🎨 Graphic Design    |    🏗️ Architecture    |     🔐 Security     |
+| :--------------: | :---------------------: | :--------------------: | :-----------------: |
+| Web & Mobile Applications |   Logos & Brand Identity |     Modular Design     |  Secure Development |
+|  React / Angular | Flyers & Print Material | Component Architecture | Dependency Security |
+|     REST APIs    | Web & Interface Design  |    State Management    |      DevSecOps      |
 
 </div>
 
 ### 🔨 Current Focus
 
 * ⚛️ Building applications with **React and Angular**
+* 🌐 Building mobile applications with **Android Studio**
 * 🧩 Improving my approach to **frontend architecture**
 * 🔌 Working with **REST APIs and backend services**
 * 🏗️ Exploring modular and maintainable application architectures
@@ -114,6 +115,23 @@ My interests sit at the intersection of:
 </div>
 
 ---
+## Graphic Design & UI/UX
+
+<div align="center">
+
+<a href="https://figma.com">
+<img src="https://skillicons.dev/icons?i=figma" height="50" />
+</a>
+<a href="https://adobe.com">
+<img src="https://skillicons.dev/icons?i=ps" height="50" />
+</a>
+<a href="https://adobe.com">
+<img src="https://skillicons.dev/icons?i=ai" height="50" />
+</a>
+
+</div>
+
+---
 
 ## Backend & Data
 
@@ -125,8 +143,14 @@ My interests sit at the intersection of:
 <a href="https://spring.io/projects/spring-framework">
 <img src="https://skillicons.dev/icons?i=spring" height="50" />
 </a>
+<a href="https://java.com">
+<img src="https://skillicons.dev/icons?i=java" height="50" />
+</a>
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+</a>
+<a href="https://sqlite.org">
+<img src="https://skillicons.dev/icons?i=sqlite" height="50" />
 </a>
 
 </div>
@@ -151,6 +175,15 @@ My interests sit at the intersection of:
 </a>
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+</a>
+<a href="https://android.com">
+<img src="https://skillicons.dev/icons?i=androidstudio" height="50" />
+</a>
+<a href="https://postman.com">
+<img src="https://skillicons.dev/icons?i=postman" height="50" />
+</a>
+<a href="https://wordpress.org">
+<img src="https://skillicons.dev/icons?i=wordpress" height="50" />
 </a>
 
 </div>
